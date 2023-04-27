@@ -10,7 +10,7 @@ L'esercitazione è composta di tre parti:
 Questo notebook vi aiuterà a comprendere i concetti di base della libreria, non saltatelo.
 2. [Introduzione alle reti neurali](Introduction_to_NeuralNetworks_using_PyTorch.ipynb): In questo notebook 
    implementerete un multilayer perceptron per classificare mnist. 
-3. [Field test del MLP](): questo è il vero esercizio della settimana che gli altri due notebook vi preparano ad 
+3. [Field test del MLP](MLP_field_test.ipynb): questo è il vero esercizio della settimana che gli altri due notebook vi preparano ad 
    affrontare. È composto da tre sfide:
    1. addestrare un MLP su [FashionMNIST](https://github.com/zalandoresearch/fashion-mnist): è analogo a MNIST come 
       struttura, ma vi darà un po' più di soddisfazione.
